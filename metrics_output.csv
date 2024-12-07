@@ -1,0 +1,5 @@
+metric,value
+accuracy,0.5841025153043423
+f1_score,0.5871595531514693
+weightedPrecision,0.618941589182503
+weightedRecall,0.5841025153043423
