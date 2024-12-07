@@ -1,0 +1,156 @@
+year,subject_area_abbrev,country,article_amount
+2024,PSYC,Afghanistan,2
+2024,ECON,Albania,3
+2024,MATE,Algeria,7
+2024,VETE,Angola,1
+2024,VETE,Argentina,15
+2024,PHYS,Armenia,2
+2024,NURS,Australia,85
+2024,PSYC,Austria,13
+2024,PHYS,Azerbaijan,7
+2024,MULT,Bahrain,1
+2024,MULT,Bangladesh,22
+2024,ECON,Belarus,2
+2024,VETE,Belgium,25
+2024,EART,Benin,4
+2024,DENT,Bhutan,1
+2024,EART,Bolivia,1
+2024,BIOC,Bosnia and Herzegovina,1
+2024,HEAL,Botswana,1
+2024,VETE,Brazil,79
+2024,MEDI,Brunei Darussalam,0
+2024,BUSI,Bulgaria,2
+2024,BIOC,Burkina Faso,2
+2024,IMMU,Burundi,1
+2024,PHYS,Cambodia,1
+2024,MULT,Cameroon,4
+2024,NEUR,Canada,63
+2024,HEAL,Chile,22
+2024,CHEM,China,1042
+2024,MATH,Colombia,9
+2024,ENVI,Congo,1
+2024,VETE,Cote d'Ivoire,1
+2024,IMMU,Croatia,3
+2024,CHEM,Cuba,7
+2024,BIOC,Cyprus,3
+2024,IMMU,Czech Republic,9
+2024,NEUR,Democratic Republic Congo,2
+2024,HEAL,Denmark,24
+2024,NURS,Dominican Republic,1
+2024,HEAL,Ecuador,6
+2024,DENT,Egypt,117
+2024,DENT,El Salvador,1
+2024,EART,Estonia,3
+2024,MULT,Ethiopia,23
+2024,HEAL,Faroe Islands,1
+2024,ECON,Fiji,1
+2024,HEAL,Finland,9
+2024,MATH,France,50
+2024,VETE,French Guiana,1
+2024,HEAL,French Polynesia,3
+2024,NURS,Gabon,2
+2024,ENGI,Gambia,1
+2024,COMP,Georgia,2
+2024,NEUR,Germany,76
+2024,ECON,Ghana,8
+2024,COMP,Greece,8
+2024,EART,Guinea,1
+2024,DENT,Guyana,1
+2024,PHAR,Honduras,1
+2024,COMP,Hong Kong,20
+2024,MULT,Hungary,10
+2024,NURS,Iceland,6
+2024,PHYS,India,170
+2024,HEAL,Indonesia,64
+2024,DENT,Iran,78
+2024,DENT,Iraq,15
+2024,HEAL,Ireland,14
+2024,NEUR,Israel,18
+2024,VETE,Italy,60
+2024,DENT,Jamaica,1
+2024,BIOC,Japan,72
+2024,NURS,Jordan,7
+2024,HEAL,Kazakhstan,6
+2024,VETE,Kenya,6
+2024,ECON,Kuwait,3
+2024,PSYC,Kyrgyzstan,1
+2024,VETE,Laos,2
+2024,ECON,Latvia,2
+2024,MULT,Lebanon,5
+2024,MEDI,Liberia,1
+2024,DENT,Libya,2
+2024,ARTS,Lithuania,10
+2024,BIOC,Luxembourg,3
+2024,MULT,Macao,5
+2024,VETE,Madagascar,2
+2024,IMMU,Malawi,1
+2024,BUSI,Malaysia,18
+2024,IMMU,Maldives,2
+2024,IMMU,Mali,1
+2024,ENGI,Malta,2
+2024,VETE,Mauritania,1
+2024,DECI,Mauritius,1
+2024,AGRI,Mexico,19
+2024,MEDI,Moldova,2
+2024,MULT,Monaco,1
+2024,VETE,Mongolia,1
+2024,CHEM,Montenegro,1
+2024,DECI,Morocco,13
+2024,AGRI,Mozambique,1
+2024,EART,Namibia,1
+2024,MULT,Nepal,4
+2024,MEDI,Netherlands,44
+2024,IMMU,New Caledonia,1
+2024,ARTS,New Zealand,8
+2024,DENT,Nicaragua,1
+2024,MULT,Nigeria,10
+2024,PHYS,North Korea,2
+2024,ECON,Norway,15
+2024,SOCI,Oman,4
+2024,PHYS,Pakistan,30
+2024,SOCI,Palestine,15
+2024,ENVI,Papua New Guinea,1
+2024,HEAL,Paraguay,21
+2024,HEAL,Peru,12
+2024,AGRI,Philippines,5
+2024,BUSI,Poland,31
+2024,HEAL,Portugal,30
+2024,PSYC,Puerto Rico,1
+2024,DENT,Qatar,4
+2024,VETE,Romania,9
+2024,PHYS,Russian Federation,67
+2024,DENT,Rwanda,2
+2024,DENT,Saudi Arabia,28
+2024,DECI,Serbia,9
+2024,MULT,Seychelles,1
+2024,ENER,Singapore,12
+2024,ECON,Slovakia,7
+2024,DECI,Slovenia,5
+2024,DENT,Somalia,2
+2024,VETE,South Africa,18
+2024,CENG,South Korea,76
+2024,VETE,Spain,73
+2024,DENT,Sri Lanka,3
+2024,CHEM,Sudan,1
+2024,NURS,Sweden,25
+2024,NEUR,Switzerland,30
+2024,DENT,Syrian Arab Republic,13
+2024,NURS,Taiwan,20
+2024,MULT,Tanzania,7
+2024,DENT,Thailand,27
+2024,ENGI,Togo,1
+2024,BUSI,Trinidad and Tobago,1
+2024,MATH,Tunisia,6
+2024,DENT,Turkey,108
+2024,DENT,Uganda,5
+2024,PHYS,Ukraine,9
+2024,PSYC,United Arab Emirates,8
+2024,HEAL,United Kingdom,179
+2024,MEDI,United States,280
+2024,ARTS,Uruguay,2
+2024,MATH,Uzbekistan,2
+2024,SOCI,Venezuela,4
+2024,ECON,Viet Nam,19
+2024,DENT,Yemen,4
+2024,NEUR,Zambia,1
+2024,HEAL,Zimbabwe,2
